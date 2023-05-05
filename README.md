@@ -11,9 +11,10 @@ If you want to change the city displayed on the map in the provided code, you ca
 
 Support is not available at this time. 
 
-## Contributing
 
-Copyright <2023> <Alice McElyea>
+## License
+
+Copyright 2023 Alice McElyea
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
